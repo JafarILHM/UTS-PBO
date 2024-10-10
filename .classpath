@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="Aplikasi Reservasi Hotel"/>
+	<classpathentry kind="src" path="UTSPraktikumPBO"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
